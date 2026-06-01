@@ -92,18 +92,20 @@ Output Waveform
 
 Tabulation
 
+<img width="1153" height="664" alt="WhatsApp Image 2026-06-01 at 6 03 36 PM" src="https://github.com/user-attachments/assets/000f54d4-8e11-41c5-af91-c0f0c55c3fa3" />
 
 
 
 Calculation
 
+<img width="719" height="1280" alt="WhatsApp Image 2026-06-01 at 6 04 17 PM" src="https://github.com/user-attachments/assets/d03c5762-14d8-4cf3-9c95-57d291d3e44b" />
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 1441.5 , 1141.6
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 0.98 , 0.87
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 0.87
 
 
 
